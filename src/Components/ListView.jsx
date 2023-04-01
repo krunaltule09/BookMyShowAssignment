@@ -1,20 +1,25 @@
 // import { movieContext } from "./context";
 // import { useContext } from "react";
-import CardDetail from "./CardDetails";
-import { Link } from "react-router-dom";
+import CardDetail from './CardDetails';
+import { Link } from 'react-router-dom';
+import './style.css';
 
 const ListView = (props) => {
   // const { data } = useContext(movieContext);
 
   return (
     <>
-      {props?.data?.Events?.map((event, id) => {
-        return (
-          <Link to={`/Events/${event.code}`}>
-            <CardDetail key={event?.code} event={event} />
-          </Link>
-        );
-      })}
+      <div className='flex_row'>
+        {props?.data?.Events?.map((event, id) => {
+          return (
+            <div className='card'>
+              <Link key={event?.code} to={`/Events/${event.code}`}>
+                <CardDetail event={event} />
+              </Link>
+            </div>
+          );
+        })}
+      </div>
     </>
   );
 };

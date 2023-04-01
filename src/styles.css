@@ -1,4 +1,12 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  text-decoration: none;
+}
+
+.sessions{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }

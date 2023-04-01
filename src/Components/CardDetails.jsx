@@ -5,9 +5,9 @@ const CardDetail = (props) => {
 
   return (
     <>
-      <div className="cardContainer">
-        <div className="imageContainer">
-          <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4xLzEwICAzOS4ySyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311714-peatrzdcmr-portrait.jpg" />
+      <div className='cardContainer'>
+        <div className='imageContainer'>
+          <img src='https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MjArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/kids-zone-collection-202211140440.png' />
         </div>
         <div>{props?.event?.title}</div>
       </div>
