@@ -1,0 +1,577 @@
+{
+  "Events": [
+    {
+      "img": "/nursing/provider-card-0.png",
+      "title": "Yoga & Meditations : Theme Based senior",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Online",
+      "button2Text": "Health & Wellness",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev001",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-1.png",
+      "title": "Bharatnatyam Bollywood Fusion Dance Workshop ",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "On Ground",
+      "button2Text": "Entertainment",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev002",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-2.png",
+      "title": "Bharatnatyam Bollywood Fusion Dance Workshop ",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Hybrid",
+      "button2Text": "Entertainment",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev003",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-3.png",
+      "title": "Yoga & Meditations : Theme Based senior",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Online",
+      "button2Text": "Health & Wellness",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev004",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card.png",
+      "title": "Yoga & Meditations : Theme Based ",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Online",
+      "button2Text": "Health & Wellness",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev005",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-5.png",
+      "title": "Salsa & Hits Bollywood Fusion Dance",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "On Ground",
+      "button2Text": "Entertainment",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev006",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-6.png",
+      "title": "Punjabi & Hits Bollywood Fusion Dance ",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Hybrid",
+      "button2Text": "Entertainment",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev007",
+      "type": "",
+      "status": ""
+    },
+    {
+      "img": "/nursing/provider-card-7.png",
+      "title": "Yoga & Meditations : Theme Based ",
+      "date": "Sun 16, Oct",
+      "time": "6:30PM",
+      "desc": "Zoom India",
+      "button1Text": "Online",
+      "button2Text": "Health & Wellness",
+      "genre": "Dance",
+      "ageGroup": "For 30+ only",
+      "code": "ev008",
+      "type": "",
+      "status": ""
+    }
+  ],
+  "Session": [
+    {
+      "code": "ss001",
+      "status": "",
+      "sessionDate": "Monday, 06 December",
+      "sessionTime": "6:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss002",
+      "status": "",
+      "sessionDate": "Monday, 06 December",
+      "sessionTime": "7:00 PM",
+      "Product": "ev002",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss003",
+      "status": "",
+      "sessionDate": "Monday, 06 December",
+      "sessionTime": "8:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss004",
+      "status": "",
+      "sessionDate": "Monday, 06 December",
+      "sessionTime": "9:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss005",
+      "status": "",
+      "sessionDate": "Tuesday, 07 December",
+      "sessionTime": "5:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss006",
+      "status": "",
+      "sessionDate": "Tuesday, 07 December",
+      "sessionTime": "6:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss007",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "8:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss008",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "9:00 PM",
+      "Product": "ev001",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss009",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "6:00 PM",
+      "Product": "ev003",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss010",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "7:30 PM",
+      "Product": "ev003",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss011",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "4:00 PM",
+      "Product": "ev004",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss012",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "5:00 PM",
+      "Product": "ev004",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss013",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "6:00 PM",
+      "Product": "ev005",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss014",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "7:00 PM",
+      "Product": "ev005",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss015",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "6:30 PM",
+      "Product": "ev006",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss016",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "7:30 PM",
+      "Product": "ev006",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss017",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "6:00 PM",
+      "Product": "ev007",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss018",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "6:30 PM",
+      "Product": "ev007",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss019",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "3:00 PM",
+      "Product": "ev008",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    },
+    {
+      "code": "ss020",
+      "status": "",
+      "sessionDate": "Wednesday, 08 December",
+      "sessionTime": "4:30 PM",
+      "Product": "ev008",
+      "Venue": "One nest: Mumbaii",
+      "totalSeats": "100",
+      "availableSeats": "90"
+    }
+  ],
+  "ticketType": [
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss001",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss002",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Silver", "price": "250" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss003",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Silver", "price": "250" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss004",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss005",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Silver", "price": "250" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss006",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss007",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss008",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss009",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss010",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss011",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss012",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss013",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss014",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss015",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss016",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss017",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss018",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss019",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    },
+    {
+      "Code": "tt001",
+      "categoryCode": "",
+      "description": "",
+      "Session": "ss020",
+      "Product": "",
+      "maxQuantity": "100",
+      "type": [
+        { "name": "Bronze", "price": "150" },
+        { "name": "Gold", "price": "450" }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "code": "",
+      "name": "",
+      "status": ""
+    }
+  ],
+  "venue": [
+    {
+      "name": "",
+      "description": "",
+      "type": "online/field",
+      "address": "",
+      "status": ""
+    }
+  ]
+}
